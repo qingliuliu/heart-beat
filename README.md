@@ -3,7 +3,7 @@
 [![Author](https://img.shields.io/badge/author-chanshiyu-blue.svg?style=flat-square)](https://chanshiyu.icu)
 [![Email](https://img.shields.io/badge/Email%20me-me@chanshiyu.icu-green.svg?style=flat-square)](me@chanshiyu.icu)
 
-![蝉時雨](https://postimg.cc/nMMZ9HWH)
+[![蝉時雨](https://i.postimg.cc/SQfK5R7z/5cc5bbc4ae020.png)]
 
 Aurora 是一个基于 Vue 开发的 SPA 单页面博客应用程序，使用 [Github Issues](https://developer.github.com/v3/issues/) 进行写作，借助 [Github Api](https://developer.github.com/v3/) 获取内容，通过 `Github Pages` 部署在线访问。博客评论系统采用开源项目 [Gitalk](https://github.com/gitalk/gitalk)。主题基于 Github 全家桶，脱离服务器与数据库，关注内容本身，操作简单，免费食用。
 
