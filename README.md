@@ -1,7 +1,6 @@
 # Aurora - An awesome blog theme
 
 [![Author](https://img.shields.io/badge/author-chanshiyu-blue.svg?style=flat-square)](https://chanshiyu.icu)
-[![Email](https://img.shields.io/badge/Email%20me-me@chanshiyu.icu-green.svg?style=flat-square)](me@chanshiyu.icu)
 
 ![蝉時雨](https://i.postimg.cc/SQfK5R7z/5cc5bbc4ae020.png)
 
